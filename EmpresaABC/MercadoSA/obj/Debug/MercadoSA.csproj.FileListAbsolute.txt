@@ -1,0 +1,10 @@
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI110\EmpresaABC\MercadoSA\bin\Debug\MercadoSA.exe.config
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI110\EmpresaABC\MercadoSA\bin\Debug\MercadoSA.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI110\EmpresaABC\MercadoSA\bin\Debug\MercadoSA.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI110\EmpresaABC\MercadoSA\obj\Debug\MercadoSA.csproj.AssemblyReference.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI110\EmpresaABC\MercadoSA\obj\Debug\MercadoSA.Form1.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI110\EmpresaABC\MercadoSA\obj\Debug\MercadoSA.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI110\EmpresaABC\MercadoSA\obj\Debug\MercadoSA.csproj.GenerateResource.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI110\EmpresaABC\MercadoSA\obj\Debug\MercadoSA.csproj.CoreCompileInputs.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI110\EmpresaABC\MercadoSA\obj\Debug\MercadoSA.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI110\EmpresaABC\MercadoSA\obj\Debug\MercadoSA.pdb
